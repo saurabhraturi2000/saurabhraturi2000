@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">-👋 Hi, I’m @saurabhraturi2000<br>-👀 I’m interested in developing multiplatform applications.<br>-🌱 I’m currently a full stack developer.<br>-💞️ I’m looking to collaborate</p>
+<p align="left">-👋 Hi, I’m saurabh raturi<br>-🌱 I’m a full stack developer.<br>-👀 I’m interested in developing multiplatform applications.<br>-💞️ I’m looking to collaborate</p>
 
 ###
 
