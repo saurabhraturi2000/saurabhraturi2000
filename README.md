@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @saurabhraturi2000
 - 👀 I’m interested in developing multiplatform applications.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently a full stack developer.
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurabh-raturi-6b0a13196) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/saurabhraturi8) 
 
