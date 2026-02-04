@@ -16,7 +16,22 @@
 
 ###
 
-<p align="left">-👋 Hi, I’m saurabh raturi<br>-🌱 I’m a full stack developer.<br>-👀 I’m interested in developing multiplatform applications.<br>-💞️ I’m looking to collaborate</p>
+<p align="left">-👋 Hi, I’m Saurabh Raturi.<br>-🌱 I’m a full stack developer who loves building fast, reliable, and user-friendly products.<br>-👀 I’m interested in developing multiplatform applications using modern web and mobile stacks.<br>-💞️ I’m looking to collaborate on meaningful products, open-source tools, and developer-focused experiences.</p>
+
+###
+
+<h3 align="left">✨ What I focus on</h3>
+
+###
+
+<p align="left">I enjoy turning ideas into polished, end-to-end experiences. I typically work across UI/UX, APIs, and deployment so products ship smoothly. I care about clean code, performance, and thoughtful design, and I’m always learning new tools to ship better solutions.</p>
+
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+###
+
 
 ###
 
@@ -71,12 +86,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhraturi2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhraturi2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=saurabhraturi2000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
 
 ###
 
