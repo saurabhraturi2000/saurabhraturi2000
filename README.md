@@ -32,11 +32,6 @@
 
 ###
 
-<div align="left">
-  <ul>
-    <li><strong>GitHub Profile README</strong> — A clean, visual profile overview showcasing my skills, stats, and contact links in one place.</li>
-  </ul>
-</div>
 
 ###
 
@@ -91,12 +86,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhraturi2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhraturi2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=saurabhraturi2000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
 
 ###
 
