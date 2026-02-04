@@ -16,7 +16,27 @@
 
 ###
 
-<p align="left">-👋 Hi, I’m saurabh raturi<br>-🌱 I’m a full stack developer.<br>-👀 I’m interested in developing multiplatform applications.<br>-💞️ I’m looking to collaborate</p>
+<p align="left">-👋 Hi, I’m Saurabh Raturi.<br>-🌱 I’m a full stack developer who loves building fast, reliable, and user-friendly products.<br>-👀 I’m interested in developing multiplatform applications using modern web and mobile stacks.<br>-💞️ I’m looking to collaborate on meaningful products, open-source tools, and developer-focused experiences.</p>
+
+###
+
+<h3 align="left">✨ What I focus on</h3>
+
+###
+
+<p align="left">I enjoy turning ideas into polished, end-to-end experiences. I typically work across UI/UX, APIs, and deployment so products ship smoothly. I care about clean code, performance, and thoughtful design, and I’m always learning new tools to ship better solutions.</p>
+
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+###
+
+<div align="left">
+  <ul>
+    <li><strong>GitHub Profile README</strong> — A clean, visual profile overview showcasing my skills, stats, and contact links in one place.</li>
+  </ul>
+</div>
 
 ###
 
